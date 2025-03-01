@@ -161,3 +161,5 @@ cython_debug/
 *.csv
 wine_quality_prediction/__init__.py
 wine_quality_prediction/utils.py
+quality_prediction/__init__.py
+quality_prediction/utils.py
