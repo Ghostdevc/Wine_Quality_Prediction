@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 *.csv
+wine_quality_prediction/__init__.py
+wine_quality_prediction/utils.py
