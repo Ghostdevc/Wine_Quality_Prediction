@@ -163,3 +163,7 @@ wine_quality_prediction/__init__.py
 wine_quality_prediction/utils.py
 quality_prediction/__init__.py
 quality_prediction/utils.py
+catboost_info/catboost_training.json
+catboost_info/learn/events.out.tfevents
+catboost_info/learn_error.tsv
+catboost_info/time_left.tsv
